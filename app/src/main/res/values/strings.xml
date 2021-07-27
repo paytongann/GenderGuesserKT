@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GenderGuesser</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="type_name">type name</string>
+    <string name="gender_guesser">Gender Guesser?!</string>
+    <string name="confirm">Confirm</string>
+</resources>
