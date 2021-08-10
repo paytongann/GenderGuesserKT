@@ -2,6 +2,9 @@
     <string name="app_name">GenderGuesser</string>
     <string name="enter_a_name">Enter a name</string>
     <string name="type_name">type name</string>
-    <string name="gender_guesser">Gender Guesser?!</string>
+    <string name="gender_guesser">Gender Guesser!</string>
     <string name="confirm">Confirm</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_valid_name">Enter valid name</string>
+    <string name="count">Count: </string>
 </resources>

@@ -30,10 +30,10 @@ class GenderViewModel : ViewModel() {
                 ?.subscribe(
                 {
                     genderData.value = it
-                    Log.d("TAG", "payton success: $it")
+                    Log.d("TAG", "gender success: $it")
                 },
                 { e ->
-                    Log.d("TAG", "payton error: " + e.localizedMessage)
+                    Log.d("TAG", "gender error: " + e.localizedMessage)
                 }
         )
         return genderData
